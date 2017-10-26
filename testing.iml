@@ -14,7 +14,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Leiningen: clojure-complete:0.2.4" level="project" />
-    <orderEntry type="library" name="Leiningen: expectations:2.2.0-beta4" level="project" />
+    <orderEntry type="library" name="Leiningen: expectations:2.2.0-rc2" level="project" />
     <orderEntry type="library" name="Leiningen: joda-time:2.9.3" level="project" />
     <orderEntry type="library" name="Leiningen: junit:4.12" level="project" />
     <orderEntry type="library" name="Leiningen: org.clojure/clojure:1.8.0" level="project" />
