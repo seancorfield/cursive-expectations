@@ -1,5 +1,5 @@
 (ns testing.core-test
-  (:require [expectations.clojure.test :refer [defexpect expecting]]
+  (:require [expectations.clojure.test :refer :all]
             [testing.core :refer :all]))
 
 (defexpect a-test
